@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./namy-banner.png" width="100%" alt="Namy Devx Banner">
+
+</div>
+
+<div align="center">
+
 # <span style="color:#00ff41">NΛMY</span> <span style="color:white">DEVX</span>
 
 ### `BUILD • LEARN • SHARE • NO LIMITS`
