@@ -1,242 +1,88 @@
-<div align="center"><img src="./namy-banner.png" width="100%" alt="Namy Devx Banner"><br><br>
+<div align="center"><img src="./namy-banner.png" width="100%" alt="Namy Devx"><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Android+Developer;Network+%26+Security+Enthusiast;Building+NamyNetwork;SSH+%7C+UDP+%7C+VPN+%7C+Linux;Always+Learning+%7C+Always+Building" /><br><br>
+🟢 NAMY DEVX
 
-<a href="https://github.com/Namydevx">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41">
-</a>
-<a href="https://github.com/Namydevx?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00ff41">
-</a>
-<a href="https://github.com/Namydevx?tab=followers">
-<img src="https://img.shields.io/github/followers/Namydevx?style=for-the-badge&label=FOLLOWERS&color=00ff41&labelColor=000000">
-</a></div>---
+"ANDROID • NETWORK • LINUX • DEVELOPMENT"
 
-"> WHOAMI"
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Building+NamyNetwork;Android+%26+Network+Development;SSH+%7C+UDP+%7C+VPN;Code.+Build.+Connect." /><br><br>
 
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│                  N A M Y   D E V X               │
-│                                                  │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  > Android Developer                             │
-│  > Network & Security Enthusiast                 │
-│  > Linux / VPS                                   │
-│  > SSH / UDP / VPN                               │
-│  > Open Source Builder                           │
-│  > Network Engineering                           │
-│                                                  │
-│  LOCATION  : INDONESIA                           │
-│  STATUS    : BUILDING                            │
-│                                                  │
-└──────────────────────────────────────────────────┘
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=080808">
+<img src="https://img.shields.io/badge/BUILDING-NAMYNETWORK-00ff41?style=for-the-badge&labelColor=080808">
+<img src="https://img.shields.io/badge/OPEN_SOURCE-00ff41?style=for-the-badge&labelColor=080808"></div>---
 
-«Technology is a tool. Freedom is the goal.»
+<div align="center">⚡ ABOUT
 
----
+Android developer & network enthusiast building tools, applications, and network systems.
 
-"> SYSTEM STATUS"
+"Android" • "Linux" • "SSH" • "UDP" • "VPN" • "MikroTik" • "Node.js"
 
-┌──────────────────────────────────────────────────┐
-│                 NAMY SYSTEM                      │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  ● Android Development       [ ONLINE ]         │
-│  ● Linux / VPS               [ ONLINE ]         │
-│  ● Network Engineering       [ ONLINE ]         │
-│  ● SSH                       [ ACTIVE ]         │
-│  ● UDP                       [ ONLINE ]         │
-│  ● VPN                       [ BUILDING ]       │
-│  ● Multi Tunnel              [ BUILDING ]       │
-│  ● NamyNetwork               [ DEVELOPMENT ]    │
-│                                                  │
-└──────────────────────────────────────────────────┘
+</div>---
 
----
+<div align="center">🚀 NAMY PROJECTS
 
-"> NAMY PROJECTS"
-
-<table>
-<tr>
-<td width="50%">📡 NamyNetwork
+</div><table>
+<tr><td align="center" width="50%">📡 NAMYNETWORK
 
 Android Network Client
 
-SSH
-UDP
-VPN
-Multi Tunnel
-Proxy
-Payload
-Network Monitor
+"SSH" "UDP" "VPN"
+"Multi Tunnel" "Proxy" "Payload"
 
-<a href="https://github.com/Namydevx/NamyNetwork">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000">
-</a></td><td width="50%">📶 NamyNet
+<br><a href="https://github.com/Namydevx/NamyNetwork">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=080808">
+</a></td><td align="center" width="50%">📶 NAMYNET
 
 WiFi Voucher Manager
 
-MikroTik
-Node.js
-MariaDB
-WebSocket
-SSH
-Voucher System
+"MikroTik" "Node.js"
+"MariaDB" "WebSocket"
 
-<a href="https://github.com/Namydevx/NamyNet">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000">
-</a></td>
-</tr><tr>
-<td>🎬 NamyDrama
+<br><a href="https://github.com/Namydevx/NamyNet">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=080808">
+</a></td></tr><tr><td align="center">🎬 NAMYDRAMA
 
-Android Streaming Application
+Android Streaming
 
-Android
-Media3
-ExoPlayer
-JSON
-Streaming
+"Android" "Media3"
+"ExoPlayer" "JSON"
 
-<a href="https://github.com/Namydevx/NamyDrama">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000">
-</a></td><td>📺 NamyTube
+<br><a href="https://github.com/Namydevx/NamyDrama">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=080808">
+</a></td><td align="center">📺 NAMYTUBE
 
-Self Hosted Video Library
+Self Hosted Video
 
-Linux
-Nginx
-yt-dlp
-FFmpeg
-Node.js
+"Linux" "Nginx"
+"FFmpeg" "yt-dlp"
 
-<a href="https://github.com/Namydevx/NamyTube">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000">
-</a></td>
-</tr>
+<br><a href="https://github.com/Namydevx/NamyTube">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=080808">
+</a></td></tr>
 </table>---
 
-"> TECH STACK"
+<div align="center">🛠️ TECHNOLOGIES
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,android,kotlin,nodejs,js,python,linux,git,mariadb,nginx,docker&theme=dark" /><br><br>
+<br><img src="https://skillicons.dev/icons?i=android,java,kotlin,nodejs,js,python,linux,git,mysql,nginx,docker&theme=dark" /><br><br>
 
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=00ff41">
-<img src="https://img.shields.io/badge/UDP-000000?style=for-the-badge&logo=wireguard&logoColor=00ff41">
-<img src="https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=protonvpn&logoColor=00ff41">
-<img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=00ff41"></div>---
+<img src="https://img.shields.io/badge/SSH-00ff41?style=flat-square&logo=openssh&logoColor=black&labelColor=080808">
+<img src="https://img.shields.io/badge/UDP-00ff41?style=flat-square&logo=wireguard&logoColor=black&labelColor=080808">
+<img src="https://img.shields.io/badge/VPN-00ff41?style=flat-square&logo=protonvpn&logoColor=black&labelColor=080808">
+<img src="https://img.shields.io/badge/MIKROTIK-00ff41?style=flat-square&logo=mikrotik&logoColor=black&labelColor=080808"></div>---
 
-"> CURRENTLY BUILDING"
+<div align="center">📊 GITHUB STATS
 
-root@namydevx:~$ cd ~/NamyNetwork
-root@namydevx:~/NamyNetwork$ ./build.sh
+<br><img src="https://github-readme-stats.vercel.app/api?username=Namydevx&show_icons=true&hide_border=true&bg_color=080808&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" width="48%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namydevx&layout=compact&hide_border=true&bg_color=080808&title_color=00ff41&text_color=ffffff" width="38%"><br><br>
 
-[+] Initializing NamyNetwork
-[+] Loading Android Engine
-[+] Loading SSH Engine
-[+] Loading UDP Engine
-[+] Loading VPN Engine
-[+] Loading Multi Tunnel
-[+] Loading Network Monitor
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namydevx&theme=dark&hide_border=true&background=080808&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"></div>---
 
-[████████████████████████████████] 100%
+<div align="center">🌐 CONNECT
 
-[+] SYSTEM ONLINE
-[+] NETWORK ENGINE READY
-[+] WAITING FOR NEXT BUILD...
+<br><a href="https://github.com/Namydevx">
+<img src="https://img.shields.io/badge/GITHUB-NAMYDEVX-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=080808">
+</a><br><br>
 
-root@namydevx:~/NamyNetwork$
+<img src="https://komarev.com/ghpvc/?username=Namydevx&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS"><br><br>
 
----
-
-"> NETWORK ARCHITECTURE"
-
-                         ┌─────────────────┐
-                         │    NAMY USER    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │      NAMY NETWORK       │
-                    │      CORE ENGINE        │
-                    └────────────┬────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        ┌─────────┐         ┌─────────┐         ┌─────────┐
-        │   SSH   │         │   UDP   │         │   VPN   │
-        └────┬────┘         └────┬────┘         └────┬────┘
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                                 ▼
-                        ┌─────────────────┐
-                        │    INTERNET     │
-                        └─────────────────┘
-
----
-
-"> GITHUB ANALYTICS"
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Namydevx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namydevx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" width="40%"><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namydevx&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=00ff41&sideNums=ffffff"></div>---
-
-"> CONTRIBUTIONS"
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Namydevx&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true"></div>---
-
-"> DEVELOPMENT MODE"
-
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│       BUILD SOMETHING                            │
-│       BREAK SOMETHING                            │
-│       LEARN SOMETHING                            │
-│       BUILD IT BETTER                            │
-│                                                  │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│       CODE  •  CONNECT  •  CREATE               │
-│                                                  │
-│       OPEN SOURCE  •  NO LIMITS                 │
-│                                                  │
-└──────────────────────────────────────────────────┘
-
----
-
-"> TERMINAL"
-
-root@namydevx:~$ whoami
-
-namydevx
-
-root@namydevx:~$ status
-
-● CODING
-● BUILDING
-● LEARNING
-● CONNECTED
-
-root@namydevx:~$ echo "CODE TODAY"
-
-CODE TODAY
-
-root@namydevx:~$ echo "BUILD TOMORROW"
-
-BUILD TOMORROW
-
-root@namydevx:~$ _
-
----
-
-<div align="center">"🟢 SYSTEM ONLINE"
-
-ACCESS GRANTED
-WELCOME TO NAMY DEVX
-
-<br><img src="https://komarev.com/ghpvc/?username=Namydevx&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS"><br><br>
-
-"BUILD • LEARN • SHARE • NO LIMITS"
+"CODE • BUILD • CONNECT"
 
 </div>
